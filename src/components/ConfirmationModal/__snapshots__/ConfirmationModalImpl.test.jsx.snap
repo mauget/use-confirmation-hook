@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`index should render with show false 1`] = `ShallowWrapper {}`;
+
+exports[`index should render with show true 1`] = `ShallowWrapper {}`;
