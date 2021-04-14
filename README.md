@@ -37,7 +37,7 @@ the button at the bottom of the panel.
 ------------
 # Reference
 
-We based the custom hook upon a section presented inMedium article:
+We based the custom hook upon a section presented in Medium article:
 https://itnext.io/simple-tips-for-writing-clean-react-components-c3facbf6680e 
 
 ------------
